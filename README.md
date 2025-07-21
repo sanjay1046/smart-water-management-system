@@ -3,9 +3,9 @@
 
 A mini-project for monitoring and automating water usage at home using IoT and embedded systems, developed by:
 
+- **Sanjay M** (126003230)  
 - **Kiran Soorya R S** (126003133)  
 - **Sherwin L** (126003244)  
-- **Sanjay M** (126003230)  
 
 > Guide: **Dr. Kuppan Chetty RM**
 
@@ -84,9 +84,6 @@ smart-water-management/
 ├── Arduino_Code.ino         # Main source code
 ├── README.md                # Project documentation
 ├── snapshots/               # All images and working results
-│   ├── 1.jpg
-│   ├── 2.1.jpg
-│   ├── ...
 ├── LICENSE
 └── libraries.txt            # Arduino libraries required
 ```
